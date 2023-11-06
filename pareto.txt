@@ -1,0 +1,5 @@
+The Pareto principle states that for many outcomes, roughly 80% of consequences come from 20% of causes (the "vital few").[1] Other names for this principle are the 80/20 rule, the law of the vital few or the principle of factor sparsity.[1][2]
+
+In 1941, Management consultant Joseph M. Juran developed the concept in the context of quality control and improvement after reading the works of Italian sociologist and economist Vilfredo Pareto, who wrote in 1906 about the 80/20 connection while teaching at the University of Lausanne.[3] In his first work, Cours d'économie politique, Pareto showed that approximately 80% of the land in the Kingdom of Italy was owned by 20% of the population. The Pareto principle is only tangentially related to the Pareto efficiency.
+
+Mathematically, the 80/20 rule is roughly described by a power law distribution (also known as a Pareto distribution) for a particular set of parameters. Many natural phenomena distribute according to power law statistics.[4] It is an adage of business management that "80% of sales come from 20% of clients.
