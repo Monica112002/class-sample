@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is m on main and i am changing it on main
+=======
+this is m on africa with change 2 commited to africa
+>>>>>>> africa
