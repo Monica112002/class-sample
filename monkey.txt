@@ -1,1 +1,6 @@
-here is some more info on line 2 
+HEAD
+here is some more info on line
+this is m on main with changes from africa
+integrated into it 
+this is line 2 on main
+ main
